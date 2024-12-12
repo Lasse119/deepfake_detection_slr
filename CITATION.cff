@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Gerrit"
+  given-names: "Biller"
+- family-names: "Lasse"
+  given-names: "Schuetze"
+- family-names: "Max"
+  given-names: "Flemming"
+- family-names: "Kevin"
+  given-names: "Schickedanz"
+title: "Erkennung von visuellen Deepfakes mittels Machine Learnings"
+date-released: 2024-12-17
+url: "https://github.com/Lasse119/deepfake_detection_slr"
